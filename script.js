@@ -39,5 +39,5 @@ for (let i = 1; i <= 1025; i++) {
     // Adiciona um atraso de 500 milissegundos (0.5 segundos) entre cada iteração
     setTimeout(() => {
         criarCard(i);
-    }, i * 75);
+    }, i * 150);
 }
